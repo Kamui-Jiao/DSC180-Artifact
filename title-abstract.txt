@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Potential Improvement of MAMADROID System
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Nowadays, smartphone is an indispensable part of people's daily life. Android System is the most popular system running on smartphone. Due to this popularity, malware detection on Android becomes on of the most significant task for research community. In this project, we are mainly focusing on one called MAMADROID System. Instead of previous work which highly relied on the permissions requested by apps, MAMADROID relied on the sequences of abstracted API calls performed by apps. We are very interested in finding ways to improve this model. To achieve this, we've been trying to find some new features to fit into the model. We made three basic model and take the one with the highest accuracy and made two more advanced model based on this model with the best performance.    
